@@ -1,0 +1,1082 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1172,
+      "max": [
+        4.0092620849609375,
+        3.9465534687042236,
+        4.550366401672363
+      ],
+      "min": [
+        -3.9096946716308594,
+        -3.7822365760803223,
+        0.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 14064,
+      "componentType": 5126,
+      "count": 1172,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1172,
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1172,
+      "max": [
+        0.9981240034103394,
+        0.9899172782897949
+      ],
+      "min": [
+        0.0018758773803710938,
+        0.0018758773803710938
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 2124,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 28128,
+      "componentType": 5126,
+      "count": 816,
+      "max": [
+        6.5473761558532715,
+        3.0646884441375732,
+        4.327201843261719
+      ],
+      "min": [
+        -6.376290798187256,
+        -3.278914451599121,
+        0.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 37920,
+      "componentType": 5126,
+      "count": 816,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 18752,
+      "componentType": 5126,
+      "count": 816,
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 9376,
+      "componentType": 5126,
+      "count": 816,
+      "max": [
+        0.9983277320861816,
+        0.998201847076416
+      ],
+      "min": [
+        0.0016722679138183594,
+        0.0016722679138183594
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 8496,
+      "componentType": 5125,
+      "count": 1332,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 47712,
+      "componentType": 5126,
+      "count": 952,
+      "max": [
+        6.511848449707031,
+        4.171652793884277,
+        4.985633850097656
+      ],
+      "min": [
+        -5.901362895965576,
+        -4.476896286010742,
+        0.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 59136,
+      "componentType": 5126,
+      "count": 952,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 31808,
+      "componentType": 5126,
+      "count": 952,
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 15904,
+      "componentType": 5126,
+      "count": 952,
+      "max": [
+        0.9977207183837891,
+        0.997657299041748
+      ],
+      "min": [
+        0.0022792816162109375,
+        0.002279229462146759
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 13824,
+      "componentType": 5125,
+      "count": 1428,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 70560,
+      "componentType": 5126,
+      "count": 3118,
+      "max": [
+        7.914531230926514,
+        7.448971271514893,
+        7.40664529800415
+      ],
+      "min": [
+        -7.914531230926514,
+        -7.448971271514893,
+        0.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 107976,
+      "componentType": 5126,
+      "count": 3118,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 47040,
+      "componentType": 5126,
+      "count": 3118,
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 23520,
+      "componentType": 5126,
+      "count": 3118,
+      "max": [
+        0.9965705871582031,
+        0.9967515468597412
+      ],
+      "min": [
+        0.003248661756515503,
+        0.0032482147216796875
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 19536,
+      "componentType": 5125,
+      "count": 4692,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 145392,
+      "componentType": 5126,
+      "count": 2956,
+      "max": [
+        7.204709529876709,
+        6.780903339385986,
+        6.742373466491699
+      ],
+      "min": [
+        -7.204709529876709,
+        -6.780829906463623,
+        0.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 180864,
+      "componentType": 5126,
+      "count": 2956,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 96928,
+      "componentType": 5126,
+      "count": 2956,
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 48464,
+      "componentType": 5126,
+      "count": 2956,
+      "max": [
+        0.9968444108963013,
+        0.9966739416122437
+      ],
+      "min": [
+        0.0031556449830532074,
+        0.003155641257762909
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 38304,
+      "componentType": 5125,
+      "count": 4446,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 216336,
+      "componentType": 5126,
+      "count": 1776,
+      "max": [
+        6.688910007476807,
+        3.1408796310424805,
+        6.669521808624268
+      ],
+      "min": [
+        -6.688910007476807,
+        -3.1408796310424805,
+        0.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 237648,
+      "componentType": 5126,
+      "count": 1776,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 144224,
+      "componentType": 5126,
+      "count": 1776,
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 72112,
+      "componentType": 5126,
+      "count": 1776,
+      "max": [
+        0.9956121444702148,
+        0.9961365461349487
+      ],
+      "min": [
+        0.0038633346557617188,
+        0.0038633346557617188
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 56088,
+      "componentType": 5125,
+      "count": 2670,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Andrej Grave (https://sketchfab.com/andrej.grave)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/wooden-forest-houses-069b06217ce44e80aec65b1c4b4dae57",
+      "title": "Wooden Forest Houses"
+    },
+    "generator": "Sketchfab-13.74.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 66768,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 86320,
+      "byteOffset": 66768,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 258960,
+      "byteOffset": 153088,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 172640,
+      "byteOffset": 412048,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 584688,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/wooden_roof02_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/wooden_roof02_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/wooden_roof02_normal.png"
+    },
+    {
+      "uri": "textures/wooden_roof01_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/wooden_roof01_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/wooden_roof01_normal.png"
+    },
+    {
+      "uri": "textures/wooden_house_med03_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/wooden_house_med03_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/wooden_house_med03_normal.png"
+    },
+    {
+      "uri": "textures/wooden_house_med02_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/wooden_house_med02_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/wooden_house_med02_normal.png"
+    },
+    {
+      "uri": "textures/wooden_house_med01_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/wooden_house_med01_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/wooden_house_med01_normal.png"
+    },
+    {
+      "uri": "textures/wooden_house_small_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/wooden_house_small_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/wooden_house_small_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "wooden_roof02",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "wooden_roof01",
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 4
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 4
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "wooden_house_med03",
+      "normalTexture": {
+        "index": 8
+      },
+      "occlusionTexture": {
+        "index": 7
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 6
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "wooden_house_med02",
+      "normalTexture": {
+        "index": 11
+      },
+      "occlusionTexture": {
+        "index": 10
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 9
+        },
+        "metallicRoughnessTexture": {
+          "index": 10
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "wooden_house_med01",
+      "normalTexture": {
+        "index": 14
+      },
+      "occlusionTexture": {
+        "index": 13
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 12
+        },
+        "metallicRoughnessTexture": {
+          "index": 13
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "wooden_house_small",
+      "normalTexture": {
+        "index": 17
+      },
+      "occlusionTexture": {
+        "index": 16
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 15
+        },
+        "metallicRoughnessTexture": {
+          "index": 16
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "wooden_structure01_wooden_roof02_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "wooden_structure02_wooden_roof01_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "wooden_house04_wooden_house_med03_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "wooden_house03_wooden_house_med02_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 16,
+            "POSITION": 15,
+            "TANGENT": 17,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "wooden_house02_wooden_house_med01_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 21,
+            "POSITION": 20,
+            "TANGENT": 22,
+            "TEXCOORD_0": 23
+          },
+          "indices": 24,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "wooden_house01_wooden_house_small_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 26,
+            "POSITION": 25,
+            "TANGENT": 27,
+            "TEXCOORD_0": 28
+          },
+          "indices": 29,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "wooden_houses.fbx"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        -587.1013793945313,
+        1.6405344009399414,
+        1487.04296875,
+        1.0
+      ],
+      "name": "wooden_structure01"
+    },
+    {
+      "mesh": 0,
+      "name": "wooden_structure01_wooden_roof02_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        -1615.156005859375,
+        -2.082967758178711,
+        -209.17111206054688,
+        1.0
+      ],
+      "name": "wooden_structure02"
+    },
+    {
+      "mesh": 1,
+      "name": "wooden_structure02_wooden_roof01_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        -96.51784297337404,
+        -1.1800507987436148e-06,
+        26.159242874500666,
+        0.0,
+        26.159242874500688,
+        -4.0513096877248245e-06,
+        96.51784297337393,
+        0.0,
+        -7.916763355986234e-08,
+        99.99999999999991,
+        4.218929072763444e-06,
+        0.0,
+        -37.07949447631836,
+        -3.5762786865234375e-05,
+        -2224.531494140625,
+        1.0
+      ],
+      "name": "wooden_house04"
+    },
+    {
+      "mesh": 2,
+      "name": "wooden_house04_wooden_house_med03_0"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        51.78355805151047,
+        -5.551114699609309e-15,
+        85.54800751418468,
+        0.0,
+        85.54800751418128,
+        -2.8212994763984883e-05,
+        -51.7835580515084,
+        0.0,
+        2.4135658560631157e-05,
+        99.99999999999602,
+        -1.4609694742873103e-05,
+        0.0,
+        -2184.847900390625,
+        0.0,
+        1177.579345703125,
+        1.0
+      ],
+      "name": "wooden_house03"
+    },
+    {
+      "mesh": 3,
+      "name": "wooden_house03_wooden_house_med02_0"
+    },
+    {
+      "children": [
+        12
+      ],
+      "matrix": [
+        -58.389006885268266,
+        -3.656512720384697e-06,
+        -81.18327336928515,
+        0.0,
+        -81.18327336928523,
+        2.4658248554132456e-06,
+        58.38900688526822,
+        0.0,
+        -1.3316412972308456e-07,
+        99.99999999999991,
+        -4.408247367138074e-06,
+        0.0,
+        -2213.62255859375,
+        0.0,
+        -1460.406494140625,
+        1.0
+      ],
+      "name": "wooden_house02"
+    },
+    {
+      "mesh": 4,
+      "name": "wooden_house02_wooden_house_med01_0"
+    },
+    {
+      "children": [
+        14
+      ],
+      "matrix": [
+        -0.6812086667037587,
+        3.030965783912265e-06,
+        99.99767974684413,
+        0.0,
+        99.9976797467826,
+        0.00011098344010473937,
+        0.681208666699995,
+        0.0,
+        -0.00011096021780843124,
+        99.99999999993837,
+        -3.786924263060598e-06,
+        0.0,
+        -3563.275146484375,
+        0.0,
+        -169.93666076660156,
+        1.0
+      ],
+      "name": "wooden_house01"
+    },
+    {
+      "mesh": 5,
+      "name": "wooden_house01_wooden_house_small_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "sampler": 0,
+      "source": 6
+    },
+    {
+      "sampler": 0,
+      "source": 7
+    },
+    {
+      "sampler": 0,
+      "source": 8
+    },
+    {
+      "sampler": 0,
+      "source": 9
+    },
+    {
+      "sampler": 0,
+      "source": 10
+    },
+    {
+      "sampler": 0,
+      "source": 11
+    },
+    {
+      "sampler": 0,
+      "source": 12
+    },
+    {
+      "sampler": 0,
+      "source": 13
+    },
+    {
+      "sampler": 0,
+      "source": 14
+    },
+    {
+      "sampler": 0,
+      "source": 15
+    },
+    {
+      "sampler": 0,
+      "source": 16
+    },
+    {
+      "sampler": 0,
+      "source": 17
+    }
+  ]
+}
