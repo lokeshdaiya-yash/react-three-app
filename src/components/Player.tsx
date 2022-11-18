@@ -3,6 +3,7 @@ import { useFrame, useThree } from "@react-three/fiber";
 import { useRef, useEffect, useState } from "react";
 import * as THREE from "three";
 import { useInput } from "../hooks/useInput";
+// import { Physics, usePlane, useBox } from '@react-three/cannon'
 
 interface direction {
     forward: any;
@@ -43,6 +44,8 @@ const directionOffset = ({ forward, backward, left, right }: direction) => {
 
 
 const Player = () => {
+    // const [ref] = usePlane(() => ({ rotation: [-Math.PI / 2, 0, 0], ...props }))
+
     const { forward, backward, left, right, jump, shift } = useInput();
     const [houseView, setHouseView] = useState("Outer")
 
@@ -58,10 +61,12 @@ const Player = () => {
     const modelShowroom = useGLTF("./models/mi/ve_space_048.0e4c3ace1211fc6c9bf3b1ca631abbf6bae866a7.glb");
     modelShowroom.scene.position.set(-4,0,4)
     modelShowroom.scene.scale.set(0.6,0.6,0.6)
+    // console.log(modelShowroom,"Showroom")
 
-    const model = useGLTF("./models/mi/mi_avatars_008.glb");
+    // const model = useGLTF("./models/mi/mi_avatars_008.glb");
+    const model = useGLTF("./models/mi/miAvator_new.glb");
     const { actions } = useAnimations(model.animations, model.scene);
-    console.log(actions," Girl Position");
+
     // model.scene.rotation.y = 0
     model.scene.scale.set(0.5, 0.5, 0.5);
     model.scene.traverse((object) => {
